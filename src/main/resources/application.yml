@@ -1,3 +1,4 @@
+server.port: 8888
 spring:
   profiles:
     active: native
@@ -5,7 +6,4 @@ spring:
     config:
       server:
         native:
-          search-locations: classpath:/config
-
-server:
-  port: 8888
+          search-locations: "file:.../config"
