@@ -2,3 +2,5 @@ spring:
   data.mongodb.uri: mongodb+srv://RPADeeP_BPM:2AM6KD0KRASFHH3533P6e6PMRPA@clusterbpm.hi2gq.mongodb.net/RPADeeP_BPM
 
 app.security.jwt.secret: "RPAHENT"
+
+app.department.url: http://26.237.245.64:8081/

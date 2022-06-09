@@ -3,4 +3,4 @@ spring:
 
 app.security.jwt.secret: "RPAHENT"
 
-app.authentication.url: http://26.237.245.64:8080/
+app.security.token-authentication.url: http://26.237.245.64:8080/
